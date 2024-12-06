@@ -1,6 +1,6 @@
 # Galaxy Simulation
 
-This is a university project from the third semester at the University of Applied Sciences Augsburg, in which a galaxy simulation was implemented.
+This is a university project from the third semester (2022) at the University of Applied Sciences Augsburg, in which a galaxy simulation was implemented.
 
 ## Project Description
 
